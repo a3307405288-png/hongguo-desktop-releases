@@ -6,8 +6,6 @@
 
 **免费使用** · 当前版本 **1.0.9** · 支持 Windows 10 / 11（x64）
 
-> 📌 本仓库为镜像搬运，原作者：**渠道有数**（[waligoraamodio288-rgb](https://github.com/waligoraamodio288-rgb)）。应用本体、更新与维护均由原作者负责。
-
 ## ⬇️ 下载
 
 **[下载 Windows 安装程序](https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases/releases/download/v1.0.9/hongguo-1.0.9-windows-x86_64-setup.exe)** ｜ [固定最新版入口](https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases/releases/latest) ｜ [全部版本](https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases/releases)
@@ -44,11 +42,8 @@
 
 ## 💬 反馈
 
-- [提交问题](https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases/issues/new?template=bug-report.yml) ｜ [提建议](https://github.com/waligoraamodio288-rgb/hongguo-desktop-releases/issues/new?template=feature-request.yml)
-- 邮件：[WaligoraAmodio288@gmail.com](mailto:WaligoraAmodio288@gmail.com)
-
-说明系统版本、软件版本和操作步骤即可，请勿提供账号密码等隐私信息。
+在本仓库提 [Issue](https://github.com/a3307405288-png/hongguo-desktop-releases/issues) 反馈问题或建议，说明系统版本、软件版本和操作步骤即可，请勿提供账号密码等隐私信息。
 
 ## 关于
 
-这是公开发行与反馈仓库的镜像，不包含应用源码。由**渠道有数**独立维护，相关品牌与内容归各自权利方所有，播放可用性受来源及网络情况影响。
+本仓库为红果桌面版的发行镜像，不包含应用源码。相关品牌与内容归各自权利方所有，播放可用性受来源及网络情况影响。
